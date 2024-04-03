@@ -1,4 +1,4 @@
-# Frontend Machine Coding Questions - (Vanilla JS/ React-JS)
+# Frontend Coding Questions (Vanilla JS/ React-JS)
 
 ## Questions
 
